@@ -1,2 +1,6 @@
 This is a story.
+
 Additional text added.
+=======
+This is a great story.
+
